@@ -15,7 +15,7 @@ This is a MERN stack application that allows users to generate images using Open
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB Atlas
 - **AI Model:** DALL-E by OpenAI
-- **Deployment:** [Your Deployment Platform, e.g., Render, Vercel, etc.]
+- **Deployment:** https://66b9448a2c58d1cde523cd96--lovely-sprite-07bdcc.netlify.app/
 
 ## Installation
 
