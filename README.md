@@ -7,16 +7,13 @@ This is a MERN stack application that allows users to generate images using Open
 ## Features
 
 - **Image Generation:** Generate unique images based on user-provided text prompts using the DALL-E model from OpenAI.
-- **User Authentication:** Secure user login and registration using JWT for protected routes.
-- **Image Gallery:** Users can view, download, and manage their previously generated images.
-- **Responsive Design:** Optimized for both desktop and mobile devices.
+- **Image Gallery:** Users can view, download, and manage their previously generated images. 
 
 ## Technologies Used
 
-- **Frontend:** React.js, Redux, Tailwind CSS
+- **Frontend:** React.js,axios
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
+- **Database:** MongoDB Atlas
 - **AI Model:** DALL-E by OpenAI
 - **Deployment:** [Your Deployment Platform, e.g., Render, Vercel, etc.]
 
